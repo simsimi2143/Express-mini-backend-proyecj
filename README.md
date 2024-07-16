@@ -2,7 +2,6 @@
 
 REQUISTOS PARA EL PROYECTO 
 
-
 ```
 npm init
 npm i express nodemon

@@ -1,5 +1,4 @@
 const express = require('express');
-//const { route, get } = require('../../app');
 
 const router = express.Router();
 
